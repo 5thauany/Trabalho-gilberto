@@ -1,10 +1,8 @@
 # Trabalho-gilberto
 
-https://docs.google.com/document/d/1wQmgBKdc1GmR1EY7qtFKqdFl0WdFV5_AwVOKWLVzRqE/edit?usp=sharing
+##Oscar Niemeyer (Portfolio) – ꓥTLꓥS MEMORIꓥE
 
-Oscar Niemeyer (Portfolio) – ꓥTLꓥS MEMORIꓥE
-
-Estrutura:
+### Estrutura:
 
 1 Página Principal:  
 1.1 Abertura com alguma imagem de um projeto de sua autoria. (Obras mais famosas);  
@@ -22,3 +20,5 @@ Estrutura:
 6.1 Informações básicas  
 6.2 Tamanho especificado do lote/terreno que o cliente deseja usar para a construção  
 6.3 Período de previsão para entrega do projeto final.   
+
+link: https://docs.google.com/document/d/1wQmgBKdc1GmR1EY7qtFKqdFl0WdFV5_AwVOKWLVzRqE/edit?usp=sharing
