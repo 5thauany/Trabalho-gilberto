@@ -1,6 +1,6 @@
 # Trabalho-gilberto
 
-##Oscar Niemeyer (Portfolio) – ꓥTLꓥS MEMORIꓥE
+## Oscar Niemeyer (Portfolio) – ꓥTLꓥS MEMORIꓥE
 
 ### Estrutura:
 
