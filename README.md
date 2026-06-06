@@ -24,7 +24,7 @@
 link: https://docs.google.com/document/d/1wQmgBKdc1GmR1EY7qtFKqdFl0WdFV5_AwVOKWLVzRqE/edit?usp=sharing
 
 **Dia 02/06:**
-- **Ana Clara:** Wireframe do formulário
-- **Fábio:** Wireframe da biografia
--**Larry** Wireframe do portfólio
--**Thauany** Começo do código da página principal.
+- **Ana Clara:** Wireframe do formulário  
+- **Fábio:** Wireframe da biografia  
+-**Larry** Wireframe do portfólio  
+-**Thauany** Começo do código da página principal.  
