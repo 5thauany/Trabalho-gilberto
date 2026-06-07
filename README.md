@@ -33,4 +33,4 @@ link: https://docs.google.com/document/d/1wQmgBKdc1GmR1EY7qtFKqdFl0WdFV5_AwVOKWL
 - **Larry** Criação da página de portifólio.
 
 **Dia 07/06:**  
-- **Larry** Criação da rede social fake e sua respectiva página.
+- **Larry** Criação da rede social fake e sua respectiva página; criação da página sobre a nossa empresa.
