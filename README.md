@@ -35,5 +35,5 @@ link: https://docs.google.com/document/d/1wQmgBKdc1GmR1EY7qtFKqdFl0WdFV5_AwVOKWL
 **Dia 07/06:**  
 - **Larry** Criação da rede social fake e sua respectiva página; criação da página sobre a nossa empresa.
 
-- **Dia 08/06:**  
+ **Dia 08/06:**  
 - **Larry** Reparos na página de portifólio; ajuste do css da página de biografia.
