@@ -37,3 +37,9 @@ link: https://docs.google.com/document/d/1wQmgBKdc1GmR1EY7qtFKqdFl0WdFV5_AwVOKWL
 
  **Dia 08/06:**  
 - **Larry** Reparos na página de portifólio; ajuste do css da página de biografia.
+
+**Dia 09/06:**
+- ** Ana Clara** fez o Formulário.
+- ** Thauany ** fez a página da empresa Atlas.
+- ** Larry** fez alteração no css.
+
