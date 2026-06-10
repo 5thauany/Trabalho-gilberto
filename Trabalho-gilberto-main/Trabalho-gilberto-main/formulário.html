@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" href="trabalhooscar/favicons/icon branco novo.png">
+    <link rel="stylesheet" href="formulário.css">
+
+    <title>Contratar Serviços</title>
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="trabalhooscar/favicons/icon branco novo.png" alt="Logo de Oscar Niemeyer">
+
+        <p class="escrita">Oscar Nyemier Arquitetura</p>
+        <nav id="a">
+            <a href="index.html">Página Principal</a>
+            <a href="portifolio.html">Portfólio</a>
+            <a href="paginabiografia.html">Sobre Nós</a>
+            <a href="formulário.html">Contratar Serviços</a>
+            <a href="rede.html">Rede Social</a>
+        </nav>
+    </header>
+
+<div class="conteudoformulario">
+    <div class="container">
+
+        <h1>Formulário - entrar em contato com o arquiteto:</h1>
+
+        <form>
+            <div class="container-form">
+                <label for="pNome"> Nome Completo:</label>
+                <input type="text" omplet="nome" id="pNome" placeholder="Digite seu Nome Completo">
+                <br>
+
+                <label for="endemail"> Email: </label>
+                <input type=" email" id="endemail" placeholder="Digite seu Email">
+                <br>
+
+                <label for="telefone">Telefone:</label>
+                <input type="tel" id="telefone" oninput="this.value = this.value.replace(/\D/g, '')>
+
+                <br>
+
+                <label for="pTamanho"> Tamanho especificado do lote/terreno que você deseja usar para a
+                    construção:</label>
+                <input type="text" omplet="Tamanho" id="pTamanho">
+                <br>
+
+                <p>Período de previsão para entrega desejado pelo cliente.</p>
+                <select>
+                    <option value="2">2 meses</option>
+                    <option value="4">4 meses</option>
+                    <option value="6">6 mese</option>
+                    <option value="8">8 meses</option>
+                    <option value="10">10 meses</option>
+                    <option value="12">12 meses</option>
+                    <option value="14">14 meses</option>
+                    <option value="16">16 meses</option>
+                    <option value="18">18 meses</option>
+                    <option value="20">20 meses</option>
+                    <option value="22">22 meses</option>
+                    <option value="24">24 meses</option>
+                    <option value="26">26 meses</option>
+                    <option value="28">28 meses</option>
+                    <option value="30">30 meses</option>
+                    <option value="32">32 meses</option>
+                    <option value="34">34 meses</option>
+                    <option value="36">36 meses</option>
+
+                </select>
+                <p> Mensagem Adicional</p>
+
+                <textarea rows="10" cols="70"> </textarea>
+                <br>
+
+                <button onclick="alert('Enviado')"> Enviar dados </button>
+
+            </div>
+</div>
+        </form>
+    </div>
+</body>
+
+</html>
