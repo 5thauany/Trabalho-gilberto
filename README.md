@@ -43,3 +43,9 @@ link: https://docs.google.com/document/d/1wQmgBKdc1GmR1EY7qtFKqdFl0WdFV5_AwVOKWL
 - **Thauany** fez a página da empresa Atlas.
 - **Larry** fez alteração no css.
 
+  **Dia 10/06:**
+- **Ana Clara** Ajustou o formulário.
+- **Thauany** Ajustou a página da empresa Atlas.
+- **Larry** Fez alteração no css.
+
+
