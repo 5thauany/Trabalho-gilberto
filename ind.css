@@ -1,0 +1,54 @@
+.sobreoscar
+    {
+        background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+                    background-color: #22252a8f;
+    }
+
+.sobreoscar1
+    {
+        display: flex;       
+        flex-wrap: wrap; 
+        gap: 30px;              
+        margin-bottom: 50px;
+        padding: 20px;
+    }
+
+.sobreoscar2
+    {
+        display: flex;
+        flex-direction: column; 
+        gap: 15px;             
+        flex: 1; 
+        background-color: #22252a;   
+        border-radius: 20px;          
+    }
+
+
+.foto-oscar
+    {
+        width: auto;
+        height: 670px;
+        border-radius: 20px;  
+    }
+
+
+p
+    {
+        text-align: left;
+    }
+
+h4 
+    {
+        text-align: center;
+        margin: 20px;
+        Font-size: 75px;
+    }
+
+h5
+    {
+        text-align: right;
+        margin: 20px;
+        Font-size: 60px;
+    }
