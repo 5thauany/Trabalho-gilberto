@@ -1,0 +1,24 @@
+   <footer> 
+            <div class="rodape">
+            <div class="rodape-item primeira-linha">
+                <img src="trabalhooscar/img/logosatlasoscar/Logo Oscar Niemeyer Arquitetura.png">
+            </div>
+            <div class="rodape-item primeira-linha">
+                <p>Links</p>
+            </div>
+            <div class="rodape-item">
+                <h2>Contatos:</h2>
+                <a href="#">Telefone: +55 (61) 96674-1839</a>
+                <a href="#">E-mail: oscarniemeyer.arquitetura@gmail.com </a>
+                <a href="#">Instagram:</a>
+            </div>
+            <div class="rodape-item">
+                <a href="#">Sobre a equipe:</a>
+                <p>Ana Clara Machado</p>
+                <p>Fábio Antônio Nunes</p>
+                <p>Larry Borges Reis</p>
+                <p>Thauany Bernardes Pereira</p>
+            </div>
+            </div>
+    
+           </footer>
